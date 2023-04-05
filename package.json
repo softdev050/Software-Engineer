@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "@react-google-maps/api": "^2.17.1",
+    "@testing-library/user-event": "^14.4.3",
+    "D": "^1.0.0",
+    "express": "^4.18.2",
+    "firebase": "^9.15.0",
+    "graphql": "^16.6.0",
+    "jsonwebtoken": "^9.0.0",
+    "node": "^16.13.2",
+    "nodemon": "^2.0.20",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.6.1",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.2.0",
+    "styled-components": "^5.3.6",
+    "web-vitals": "^3.1.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0"
+  },
+  "name": "food-hero",
+  "description": "Projects have played a key role in your journey to becoming a full-stack web developer. As you apply for development jobs, your portfolio is absolutely vital to opening doors to opportunities. Your portfolio showcases high-quality deployed examples of your work, and you can use your finished projects for that very purpose.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmevada/food-hero.git"
+  },
+  "keywords": [],
+  "author": "Bhavika Mevada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmevada/food-hero/issues"
+  },
+  "homepage": "https://github.com/bmevada/food-hero#readme"
+}
